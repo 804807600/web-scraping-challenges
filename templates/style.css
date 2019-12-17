@@ -1,0 +1,39 @@
+h1{
+    
+    font-weight:bold;
+    text-align: center;
+    font-size:50px;
+    
+}
+.jumbotron{
+    
+    text-align: center;
+    align-items:center;
+
+}
+h2{
+    font-weight:bold;
+    font-size:25px;
+}
+h3{
+    font-weight:bold;
+    font-size:20px;
+}
+.box{
+    border: 1px solid gray;
+}
+.box_text{
+    margin-left:15px;
+
+}
+.center{
+    text-align:center;
+    margin-top:500px;
+    width:100%;
+    
+    
+}
+.figure_box{
+    border:1px solid rgb(173, 172, 172);
+}
+
